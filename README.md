@@ -19,7 +19,7 @@ You are welcome the contribute by submitting the positive Pull Request to the re
 ## Issues
 If you got the bug while using this template, you can send the issue to help developer to fix the issue
 
-## Lisence
+## License
 This repository under MIT License
 
 <p align="center">Peace ^v^</p>
